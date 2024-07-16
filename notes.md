@@ -12,4 +12,4 @@ Benefits include:
 - Catch error in dev!
 - Great for teams
 
-Type Assertion / Type Casting
+Type Assertion / Type Casting - Have to be careful
